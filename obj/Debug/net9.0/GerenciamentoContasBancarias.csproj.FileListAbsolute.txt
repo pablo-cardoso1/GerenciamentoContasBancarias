@@ -1,0 +1,14 @@
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\bin\Debug\net9.0\GerenciamentoContasBancarias.exe
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\bin\Debug\net9.0\GerenciamentoContasBancarias.deps.json
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\bin\Debug\net9.0\GerenciamentoContasBancarias.runtimeconfig.json
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\bin\Debug\net9.0\GerenciamentoContasBancarias.dll
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\bin\Debug\net9.0\GerenciamentoContasBancarias.pdb
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.dll
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\refint\GerenciamentoContasBancarias.dll
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.pdb
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\GerenciamentoContasBancarias.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\Projetos\POO\GerenciamentoContasBancarias\obj\Debug\net9.0\ref\GerenciamentoContasBancarias.dll
